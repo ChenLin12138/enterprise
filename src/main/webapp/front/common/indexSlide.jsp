@@ -5,8 +5,11 @@
   Time: 10:14
   To change this template use File | Settings | File Templates.
 --%>
+<%@page import="com.enterprise.core.SystemManage" %>
 <%@ page language="java" contentType="text/html; UTF-8"
          pageEncoding="UTF-8" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+               
 <link href="<%=path%>/resource/swiper/css/swiper.min.css" rel="stylesheet" type="text/css"/>
 <script src="<%=path%>/resource/swiper/js/swiper.min.js" type="text/javascript"></script>
 <style>

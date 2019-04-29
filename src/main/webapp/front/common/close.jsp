@@ -5,6 +5,7 @@
   Time: 17:12
   To change this template use File | Settings | File Templates.
 --%>
+<%@page import="com.enterprise.core.SystemManage" %>
 <%@ page language="java" contentType="text/html; UTF-8"
          pageEncoding="UTF-8"%>
 
